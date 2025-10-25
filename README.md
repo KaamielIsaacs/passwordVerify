@@ -1,7 +1,3 @@
-Ah! I understand now — you want it completely plain, no code boxes, no markdown fences, ready to copy straight into a README.md or text file, without any formatting issues. Here’s a fully copy-paste-friendly version:
-
-⸻
-
 CSC212 Practical 1 – Password Verifier & Rhyme Processor
 
 Student Details
